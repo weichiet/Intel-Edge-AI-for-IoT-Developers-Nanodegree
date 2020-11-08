@@ -95,7 +95,7 @@ Note that you may need to do additional processing of the output to handle incor
 
 1. `main.py`: Main file to load the pre-trained models and perform inference on the input stream.
 2. `inference.py`: Contain `Network` class to interact with pre-trained model.
-3. `WRITEUO.md`: Write-up comparing the performance of the model before and after use of the OpenVINO™ Toolkit, as well as examine potential use cases for the deployed people counter app.
+3. `WRITEUP.md`: Write-up comparing the performance of the model before and after use of the OpenVINO™ Toolkit, as well as examine potential use cases for the deployed people counter app.
 
 ## Run the application
 
