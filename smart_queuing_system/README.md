@@ -13,7 +13,7 @@ We've provided three different scenarios that depict real-world problems based o
 
 The three scenarios you'll be looking at are:  
 
-Scenario 1: [Manufacturing Sector](./Manufacturing_Scenario.md)
+Scenario 1: [Manufacturing Sector](./Manufacturing_Scenario.md)  
 Scenario 2: [Retail Sector](./Retail_Scenario.md)  
 Scenario 3: [Transportation Sector](./Transportation_Scenario.md)
 
