@@ -83,7 +83,7 @@ python3 main.py -p "FP16", -i '../bin/demo.mp4' -t 0.5 -o '../bin/'
 ```  
 This will run the application using `FP16` precision models, video input file `demo.mp4`, with threshold of 0.5 and save the output video and stats files in `/bin` folder.  
 
-Example of the output video:
+Example of the output video:  
 [![](http://img.youtube.com/vi/Sk1Fx272dw8/0.jpg)](http://www.youtube.com/watch?v=Sk1Fx272dw8 "Computer Pointer Controller - FP_16")
 
 ## Benchmarks
