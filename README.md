@@ -3,10 +3,10 @@
 ## Program Description
 
 Edge AI applications are revolutionizing the IoT industry by bringing fast, intelligent behavior to the locations where it is needed. In this Nanodegree program, you will learn how to develop and optimize Edge AI systems, using the Intel® Distribution of OpenVINO™ Toolkit. A graduate of this [program](https://www.udacity.com/course/intel-edge-ai-for-iot-developers-nanodegree--nd131) will be able to:  
-• Leverage the Intel® Distribution of OpenVINO™ Toolkit to fast-track development of high-performance computer vision and deep learning inference applications.  
-• Run pre-trained deep learning models for computer vision on-prem.  
-• Identify key hardware specifications of various hardware types (CPU, VPU, FPGA, and Integrated GPU).  
-• Utilize Intel® DevCloud for the Edge to test model performance on various hardware types (CPU, VPU, FPGA, and Integrated GPU).
+* Leverage the Intel® Distribution of OpenVINO™ Toolkit to fast-track development of high-performance computer vision and deep learning inference applications.  
+* Run pre-trained deep learning models for computer vision on-prem.  
+* Identify key hardware specifications of various hardware types (CPU, VPU, FPGA, and Integrated GPU).  
+* Utilize Intel® DevCloud for the Edge to test model performance on various hardware types (CPU, VPU, FPGA, and Integrated GPU).
 
 
 [Graduation Certificate](https://confirm.udacity.com/RP35GN27)
